@@ -8,4 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 backend - render
-frontend - netlify
+frontend - vercel
+
+Frontend Hosted URL - https://job-portal-frontend-rouge.vercel.app/
+Backend Hosted URL - https://jobportal-backend-0uex.onrender.com
